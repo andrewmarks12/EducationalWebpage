@@ -31,3 +31,20 @@ a:visited {
     text-decoration: none;
     color: white;
 }
+
+#list1{
+    text-align: center;
+}
+
+#list2 {
+text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex: 1;
+    background-color: white;
+    border-radius: 8px;
+    border-color: #3D59AB;
+    border-style: groove;
+}
