@@ -2,11 +2,11 @@ body {
     background-color: hsl(200, 23%, 63%);
 }
 
-h1 {
+.head-text {
     text-align:center;
 }
 
-p {
+.p-text {
     text-align:center;
 }
 
