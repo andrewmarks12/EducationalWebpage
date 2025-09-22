@@ -1,0 +1,18 @@
+body {
+    background-color: hsl(200, 23%, 63%);
+}
+
+h1 {
+    text-align:center;
+}
+
+p {
+    text-align:center;
+}
+
+img {
+   width: 20%;
+  border-radius: 8px;
+  display: block;
+  margin: auto;
+}
