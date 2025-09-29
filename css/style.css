@@ -42,9 +42,16 @@ text-align: center;
 
 .flex-container {
     display: flex;
-    flex: 1;
+    flex-wrap: nowrap;
     background-color: white;
     border-radius: 8px;
     border-color: #3D59AB;
     border-style: groove;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
 }
